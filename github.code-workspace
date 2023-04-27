@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ML",
+			"path": "../ML"
+		},
+		{
+			"name": "handson-ml",
+			"path": "../handson-ml"
+		}
+	],
+	"settings": {}
+}
